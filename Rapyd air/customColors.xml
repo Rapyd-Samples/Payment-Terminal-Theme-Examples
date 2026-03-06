@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="custom_primary_color">#D72C25</color>
+    <color name="custom_secondary_color"></color>
+    <color name="custom_background_color">#FFF200</color>
+    <color name="custom_positive_color"></color>
+    <color name="custom_neutral_color"></color>
+    <color name="custom_negative_color"></color>
+    <color name="custom_accent_color">#D72C25</color>
+    <color name="custom_button_color">#09568C</color>
+    <color name="custom_hint_color">#D72C25</color>
+    <color name="custom_keyboard_color">#D72C25</color>
+    <color name="custom_keyboard_text_color">#09568C</color>
+	<color name="custom_keyboard_ok_color">#09568C</color>
+	<color name="custom_keyboard_back_color"></color>
+</resources>
